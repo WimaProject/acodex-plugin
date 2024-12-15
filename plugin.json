@@ -1,0 +1,16 @@
+{
+  "id": "bajrangcoder.acodex",
+  "name": "AcodeX - Terminal",
+  "main": "dist/main.js",
+  "version": "3.1.9",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 290,
+  "author": {
+    "name": "Raunak Raj",
+    "email": "bajrangcoders@gmail.com",
+    "url": "https://github.com/bajrangCoder/acode-plugin-acodex",
+    "github": "bajrangCoder"
+  }
+}
